@@ -20,7 +20,7 @@ Rich collection of all-GUI matchers from the box.
 ## Integrations with reporting tools
  - [ReportPortalAgent](https://github.com/Unicorn-TAF/report-portal-agent)
  - [AllureAgent](https://github.com/Unicorn-TAF/allure-agent)
- - [Reporting.TestIt](https://github.com/Unicorn-TAF/testit-agent)
+ - [TestIT](https://github.com/Unicorn-TAF/testit-agent)
 
 ## Tools
  - [Toolbox](https://github.com/Unicorn-TAF/toolbox) - Stats collection and analysis, launches visualization and stats
