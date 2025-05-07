@@ -22,6 +22,8 @@ Rich collection of all-GUI matchers from the box.
  - [Reporting.Allure](https://github.com/Unicorn-TAF/allure-agent)
  - [Reporting.TestIT](https://github.com/Unicorn-TAF/testit-agent)
 
+## Templating
+ - [Unicorn.Taf.Templates](https://github.com/Unicorn-TAF/projects-templates) - Project and item templates for Unicorn
 ## Tools
  - [Toolbox](https://github.com/Unicorn-TAF/toolbox) - Stats collection and analysis, launches visualization and stats
  - [TestAdapter](https://github.com/Unicorn-TAF/test-adapter) - Tests adapter
