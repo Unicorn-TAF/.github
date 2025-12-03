@@ -12,6 +12,7 @@ Checkout [Framework usage examples](https://github.com/Unicorn-TAF/examples)
 Rich collection of all-GUI matchers from the box.
  - [UI.Win](https://github.com/Unicorn-TAF/ui-win) - Interaction with Windows native GUI based on Microsoft UI Automation.
  - [UI.Web](https://github.com/Unicorn-TAF/ui-web) - Interaction with web content in browser based on Selenium WebDriver.
+ - [UI.Web.Playwright](https://github.com/Unicorn-TAF/ui-web-playwright) - Interaction with web content in browser based on Playwright.
  - [UI.Mobile](https://github.com/Unicorn-TAF/ui-mobile) interaction with mobile based on Appium
 
 ## Work with backend
