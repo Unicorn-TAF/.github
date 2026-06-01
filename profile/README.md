@@ -1,31 +1,32 @@
 # Unicorn Test Automation Framework
 
 Unicorn is all-in-one test automation framework which provides wide spectrum of functionality out of box to start efficient test automation process in short terms.
-Checkout [Framework usage examples](https://github.com/Unicorn-TAF/examples)
+Checkout [Framework usage examples](https://github.com/unicorn-taf/examples)
 
 ## Framework core 
- - [Taf.Api](https://github.com/Unicorn-TAF/taf-api) - API of the framework
- - [Taf.Core](https://github.com/Unicorn-TAF/taf-core) - Core framework library
+ - [Taf.Api](https://github.com/unicorn-taf/taf-api) - API of the framework
+ - [Taf.Core](https://github.com/unicorn-taf/taf-core) - Core framework library
+ - [Taf.StepsInjection](https://github.com/unicorn-taf/steps-injection) - Injection of steps functionality into autotests
 
 ## Interaction with UI
- - [UI.Core](https://github.com/Unicorn-TAF/ui-core) - Generic implementation used as a base for any specific GUI implementation.
+ - [UI.Core](https://github.com/unicorn-taf/ui-core) - Generic implementation used as a base for any specific GUI implementation.
 Rich collection of all-GUI matchers from the box.
- - [UI.Win](https://github.com/Unicorn-TAF/ui-win) - Interaction with Windows native GUI based on Microsoft UI Automation.
- - [UI.Web](https://github.com/Unicorn-TAF/ui-web) - Interaction with web content in browser based on Selenium WebDriver.
- - [UI.Web.Playwright](https://github.com/Unicorn-TAF/ui-web-playwright) - Interaction with web content in browser based on Playwright.
- - [UI.Mobile](https://github.com/Unicorn-TAF/ui-mobile) interaction with mobile based on Appium
+ - [UI.Win](https://github.com/unicorn-taf/ui-win) - Interaction with Windows native GUI based on Microsoft UI Automation.
+ - [UI.Web](https://github.com/unicorn-taf/ui-web) - Interaction with web content in browser based on Selenium WebDriver.
+ - [UI.Web.Playwright](https://github.com/unicorn-taf/ui-web-playwright) - Interaction with web content in browser based on Playwright.
+ - [UI.Mobile](https://github.com/unicorn-taf/ui-mobile) interaction with mobile based on Appium
 
 ## Work with backend
- - [Backend](https://github.com/Unicorn-TAF/backend) - Interaction with REST API
+ - [Backend](https://github.com/unicorn-taf/backend) - Interaction with REST API
 
 ## Integrations with reporting tools
- - [Reporting.ReportPortal](https://github.com/Unicorn-TAF/report-portal-agent)
- - [Reporting.Allure](https://github.com/Unicorn-TAF/allure-agent)
- - [Reporting.TestIT](https://github.com/Unicorn-TAF/testit-agent)
+ - [Reporting.ReportPortal](https://github.com/unicorn-taf/report-portal-agent)
+ - [Reporting.Allure](https://github.com/unicorn-taf/allure-agent)
+ - [Reporting.TestIT](https://github.com/unicorn-taf/testit-agent)
 
 ## Templating
- - [Unicorn.Taf.Templates](https://github.com/Unicorn-TAF/projects-templates) - Project and item templates for Unicorn
+ - [Unicorn.Taf.Templates](https://github.com/unicorn-taf/projects-templates) - Project and item templates for Unicorn
 ## Tools
- - [Toolbox](https://github.com/Unicorn-TAF/toolbox) - Stats collection and analysis, launches visualization and stats
- - [TestAdapter](https://github.com/Unicorn-TAF/test-adapter) - Tests adapter
- - [ConsoleRunner](https://github.com/Unicorn-TAF/console-runner) - The utility is used to run unicorn tests from console.
+ - [Toolbox](https://github.com/unicorn-taf/toolbox) - Stats collection and analysis, launches visualization and stats
+ - [TestAdapter](https://github.com/unicorn-taf/test-adapter) - Tests adapter
+ - [ConsoleRunner](https://github.com/unicorn-taf/console-runner) - The utility is used to run unicorn tests from console.
